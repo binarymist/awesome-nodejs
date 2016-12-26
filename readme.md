@@ -629,6 +629,7 @@
 - [snyk](https://github.com/Snyk/snyk) - CLI and build-time tool to find & fix vulnerable npm dependencies.
 - [nsp](https://github.com/nodesecurity/nsp) - CLI tool to identify known vulnerabilities in your project.
 - [RegEx-DoS](https://github.com/jagracey/RegEx-DoS) - CLI tool to identify possible regex denial of service (ReDos) vulnerabilities in your project.
+- [NodeGoat](https://github.com/owasp/nodegoat) - Purposly vulnerable Node.JS web application with tutorials, videos, docker image, Zap integration.
 
 
 ### Benchmarking
